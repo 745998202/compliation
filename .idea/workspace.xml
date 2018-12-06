@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1131ec64-c6dc-4e62-aa03-b83ca7cc76f2" name="Default Changelist" comment="" />
+    <list default="true" id="1131ec64-c6dc-4e62-aa03-b83ca7cc76f2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reserve.py" beforeDir="false" afterPath="$PROJECT_DIR$/reserve.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work_cut.py" beforeDir="false" afterPath="$PROJECT_DIR$/work_cut.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/word_relize$work_cut.coverage" NAME="work_cut Coverage Results" MODIFIED="1543937963112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/word_relize$work_cut.coverage" NAME="work_cut Coverage Results" MODIFIED="1544064831527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/word_relize$NFAtoDFA.coverage" NAME="NFAtoDFA Coverage Results" MODIFIED="1543836124199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/word_relize$reserve.coverage" NAME="reserve Coverage Results" MODIFIED="1543914678095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
@@ -31,14 +36,17 @@
     <session id="-192112780">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.52" value="1" />
           <entry key="project.open.time.60" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -53,12 +61,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="7619" />
+          <entry key="py" value="13077" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="7619" />
+          <entry key="Python" value="13077" />
         </counts>
       </usages-collector>
     </session>
@@ -68,18 +76,22 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/work_cut.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="170" column="4" selection-start-line="170" selection-start-column="4" selection-end-line="170" selection-end-column="4" />
+            <state relative-caret-position="166">
+              <caret line="191" column="26" selection-start-line="191" selection-start-column="26" selection-end-line="191" selection-end-column="26" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
-                <marker date="1543938238345" expanded="true" signature="408:413" ph="..." />
-                <marker date="1543938238345" expanded="true" signature="750:755" ph="..." />
-                <marker date="1543938238345" expanded="true" signature="847:883" ph="..." />
-                <marker date="1543938238345" expanded="true" signature="1125:1155" ph="..." />
-                <marker date="1543938238345" expanded="true" signature="1881:1883" ph="..." />
-                <marker date="1543938238345" expanded="true" signature="3663:3947" ph="..." />
-                <marker date="1543938238345" expanded="true" signature="3984:4474" ph="..." />
-                <marker date="1543938238345" expanded="true" signature="4473:4474" ph="..." />
+                <marker date="1544026530127" expanded="true" signature="408:413" ph="..." />
+                <marker date="1544026530127" expanded="true" signature="750:755" ph="..." />
+                <marker date="1544026530127" expanded="true" signature="847:883" ph="..." />
+                <marker date="1544026530127" expanded="true" signature="1125:1155" ph="..." />
+                <marker date="1544026530127" expanded="true" signature="1881:1883" ph="..." />
+                <marker date="1544026530127" expanded="true" signature="3430:3523" ph="..." />
+                <marker date="1544026530127" expanded="true" signature="4059:4343" ph="..." />
+                <marker date="1544026530127" expanded="true" signature="4916:4930" ph="..." />
+                <marker date="1544026530127" expanded="true" signature="4916:5590" ph="..." />
+                <marker date="1544026530127" expanded="true" signature="5641:5653" ph="..." />
+                <marker date="1544026530127" expanded="true" signature="5641:8042" ph="..." />
+                <marker date="1544026530127" expanded="true" signature="8041:8042" ph="..." />
               </folding>
             </state>
           </provider>
@@ -88,10 +100,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/reserve.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+            <state relative-caret-position="336">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
               <folding>
-                <marker date="1543914784992" expanded="true" signature="454:1543" ph="..." />
+                <marker date="1544009132144" expanded="true" signature="880:2889" ph="..." />
               </folding>
             </state>
           </provider>
@@ -105,6 +117,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -128,6 +143,7 @@
     <option name="width" value="1400" />
     <option name="height" value="783" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -148,6 +164,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/74599/PycharmProjects/word_relize/work_cut.py" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -260,15 +277,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2679083" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27936962" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32884097" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39892185" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32793522" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39811066" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -276,7 +292,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32884097" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -295,65 +311,53 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/work_cut.py</url>
-          <line>67</line>
-          <option name="timeStamp" value="3" />
+          <url>file://$PROJECT_DIR$/reserve.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/work_cut.py</url>
-          <line>47</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/work_cut.py</url>
-          <line>51</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/work_cut.py</url>
-          <line>57</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/work_cut.py</url>
-          <line>27</line>
-          <option name="timeStamp" value="8" />
+          <line>213</line>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="stack" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/NFAtoDFA.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3418">
-          <caret line="140" column="26" lean-forward="true" selection-start-line="140" selection-start-column="26" selection-end-line="140" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/NFAtoDFA.py" />
     <entry file="file://$PROJECT_DIR$/reserve.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+        <state relative-caret-position="336">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
           <folding>
-            <marker date="1543914784992" expanded="true" signature="454:1543" ph="..." />
+            <marker date="1544009132144" expanded="true" signature="880:2889" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/work_cut.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="170" column="4" selection-start-line="170" selection-start-column="4" selection-end-line="170" selection-end-column="4" />
+        <state relative-caret-position="166">
+          <caret line="191" column="26" selection-start-line="191" selection-start-column="26" selection-end-line="191" selection-end-column="26" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
-            <marker date="1543938238345" expanded="true" signature="408:413" ph="..." />
-            <marker date="1543938238345" expanded="true" signature="750:755" ph="..." />
-            <marker date="1543938238345" expanded="true" signature="847:883" ph="..." />
-            <marker date="1543938238345" expanded="true" signature="1125:1155" ph="..." />
-            <marker date="1543938238345" expanded="true" signature="1881:1883" ph="..." />
-            <marker date="1543938238345" expanded="true" signature="3663:3947" ph="..." />
-            <marker date="1543938238345" expanded="true" signature="3984:4474" ph="..." />
-            <marker date="1543938238345" expanded="true" signature="4473:4474" ph="..." />
+            <marker date="1544026530127" expanded="true" signature="408:413" ph="..." />
+            <marker date="1544026530127" expanded="true" signature="750:755" ph="..." />
+            <marker date="1544026530127" expanded="true" signature="847:883" ph="..." />
+            <marker date="1544026530127" expanded="true" signature="1125:1155" ph="..." />
+            <marker date="1544026530127" expanded="true" signature="1881:1883" ph="..." />
+            <marker date="1544026530127" expanded="true" signature="3430:3523" ph="..." />
+            <marker date="1544026530127" expanded="true" signature="4059:4343" ph="..." />
+            <marker date="1544026530127" expanded="true" signature="4916:4930" ph="..." />
+            <marker date="1544026530127" expanded="true" signature="4916:5590" ph="..." />
+            <marker date="1544026530127" expanded="true" signature="5641:5653" ph="..." />
+            <marker date="1544026530127" expanded="true" signature="5641:8042" ph="..." />
+            <marker date="1544026530127" expanded="true" signature="8041:8042" ph="..." />
           </folding>
         </state>
       </provider>
